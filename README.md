@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Beijing, China
 - 🌱 I’m currently coding in Java & Python
-- 🤔 I’m looking for help with migration from JDK8 to JDK22
+- 🤔 I’m looking for help with migration from JDK8 to JDK25
